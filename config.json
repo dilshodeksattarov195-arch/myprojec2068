@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderselete",
+        "uuid": 13522652,
+        "checksum": "low31"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
